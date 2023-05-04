@@ -1,2 +1,1 @@
-# webcrawler-finnews
-web crawler to obatain news from wsj,reuteurs,bloomberg
+a web crawler to make financial datasets using Requests,BeautifulSoup,Selenuim ,  Pandas for cleaning data and saving ito CSV files
